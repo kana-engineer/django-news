@@ -21,8 +21,8 @@ PostgreSQL
 Node.js + Tailwind CSS
 Installation
 Clone the repository:
-git clone <repository_url>
-cd <project_name>
+git clone <https://github.com/kana-engineer/django-news>
+cd <django-news>
 Create a virtual environment:
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
