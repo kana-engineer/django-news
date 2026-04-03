@@ -30,7 +30,7 @@ venv\Scripts\activate     # Windows
 Install Python dependencies:
 pip install -r requirements.txt
 Create a .env file in the project root and add your database credentials:
-SECRET_KEY=<your_SECRET_KEY>
+SECRET_KEY=<your_secret_key>
 DEBUG=True
 DB_NAME=<your_db_name>
 DB_USER=<your_db_user>
