@@ -48,6 +48,7 @@ The project demonstrates basic **CRUD operations** using **Django ORM** with a c
 - 🐘 PostgreSQL
 - 🎨 Tailwind CSS
 - 🟢 Node.js
+- 🟢 NPM
 
 ---
 
