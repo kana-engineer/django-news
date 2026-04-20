@@ -41,7 +41,7 @@ The project demonstrates basic **CRUD operations** using **Django ORM** with a c
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
 - 🐍 Python
 - 🌐 Django
